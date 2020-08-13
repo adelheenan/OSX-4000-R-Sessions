@@ -27,9 +27,9 @@ Dr Adel Heenan, a.heenan@bangor.ac.uk ext 2898
 
 ## Important note
 
-*Note: These R sessions of the OSX4000 Marine Ecology Skills module are based on a combination of voluntary, open source contributions made to [Data Carpentry](https://datacarpentry.org) as well as an open source course published by Johnston et al. (2019) [^Johnson_2019]. The Johnston et al. (2019) course content forms the backbone of the R teaching materials outlined here, with modifications made based on Bangor University lecturer Jenny Shepperson's work on the undergraduate environmental data analysis course, and adaptions to meet the aims of OSX 4000 Marine Ecology Skills module. 
+*Note: These R sessions of the OSX4000 Marine Ecology Skills module are based on a combination of voluntary, open source contributions made to [Data Carpentry](https://datacarpentry.org) as well as an open source course published by Johnston et al. (2019) [1]. The Johnston et al. (2019) course content forms the backbone of the R teaching materials outlined here, with modifications made based on Bangor University lecturer Jenny Shepperson's work on the undergraduate environmental data analysis course, and adaptions to meet the aims of OSX 4000 Marine Ecology Skills module. 
 
-[^Johnson_2019]: Johnston et al., (2019). A graduate student-led participatory live-coding quantitative methods course in R: Experiences on initiating, developing, and teaching. Journal of Open Source Education, 2(16), 49, https://doi.org/10.21105/jose.00049
+[1] Johnston et al., (2019). A graduate student-led participatory live-coding quantitative methods course in R: Experiences on initiating, developing, and teaching. Journal of Open Source Education, 2(16), 49, https://doi.org/10.21105/jose.00049
 
 The Data Carpentry and Johnston et al. (2019) course material are available through a [The Creative
 Commons](https://creativecommons.org/) licence, so that anyone in the future
