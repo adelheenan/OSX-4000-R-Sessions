@@ -1,6 +1,9 @@
 <p align="center"><a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener"><img src="https://sourcethemes.com/academic/img/logo_200px.png" alt="Academic logo"></a></p>
 
-# Book Template for [Academic Website Builder](https://sourcethemes.com/academic/)
+# Welcome to the OSX 4000 R sessions!
+
+
+Here you will find all the teaching material for the R components of the OSX 4000 Marine ecology skills module. This module is for students on the Bangor University Marine Environmental Protection and Marine Biology Masters programmes.
 
 The **Book Template** empowers you to create **product documentation**, **digital books**, **personal notes**, and **knowledge bases**.
 
