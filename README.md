@@ -1,31 +1,33 @@
-<p align="center"><a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener"><img src="https://sourcethemes.com/academic/img/logo_200px.png" alt="Academic logo"></a></p>
-
 # Welcome to the OSX 4000 R sessions!
 
+Here you will find all the teaching material for the R components of the OSX 4000 Marine ecology skills module. This module is for students on the Bangor University Marine Environmental Protection and Marine Biology Masters programmes. The R sessions are designed to meet the growing expectation for scientists to conduct
 
-Here you will find all the teaching material for the R components of the OSX 4000 Marine ecology skills module. This module is for students on the Bangor University Marine Environmental Protection and Marine Biology Masters programmes.
+## Session content
 
-The **Book Template** empowers you to create **product documentation**, **digital books**, **personal notes**, and **knowledge bases**.
+These R sessions are designed for complete beginners, with no previous experience in programming. We will cover 
 
-[Check out the latest demo](https://book-starter.netlify.app/) of what you'll get in less than 10 minutes, or [view the showcase](https://sourcethemes.com/academic/#expo).
+## Learning outcomes
 
-[**Academic**](https://github.com/gcushen/hugo-academic) makes it easy to create a beautiful website for free using Markdown, Jupyter, or RStudio. Customize anything on your site with widgets, themes, and language packs.
+1. Develop proficiency in the programming language R
+2. Use R to manipulate datasets
+3. Use R to explore and visualize data
+4. Use R to apply univariate statistical tests (t-test, ANOVA, regression, lm)
 
-- 👉 [**Get Started**](https://sourcethemes.com/academic/docs/install)
-- 📚 [View the **documentation**](https://sourcethemes.com/academic/docs/)
-- 💬 [Chat with the **Academic community**](https://spectrum.chat/academic) or [**Hugo community**](https://discourse.gohugo.io)
-- 🐦 Twitter: [@source_themes](https://twitter.com/source_themes) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#MadeWithAcademic](https://twitter.com/search?q=%23MadeWithAcademic&src=typd)
-- 💡 [Request a **feature** or report a **bug** for _Academic_](https://github.com/gcushen/hugo-academic/issues)
-- ⬆️ **Updating Academic?** View the [Update Guide](https://sourcethemes.com/academic/docs/update/) and [Release Notes](https://sourcethemes.com/academic/updates/)
+## How to get in touch
 
-## Crowd-funded open-source software
+Blackboard is the preferred way of communication and ***THE*** best way to get your questions on these R sessions answered, so please visit the Blackboard discussion board for this module. If you need to use email, send general course related questions to a.heenan@bangor.ac.uk Any general IT issues sent via a [Bangor University Helpdesk ticket] (https://www.bangor.ac.uk/itservices/getting-help.php.en).
 
-To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.
+## Instructor and module organizer
 
-### [❤️ Click here to unlock rewards with sponsorship](https://sourcethemes.com/academic/plans/)
+Dr Adel Heenan, a.heenan@bangor.ac.uk ext 2898
 
-<!--
-[![Screenshot]()](https://github.com/sourcethemes/academic-starter-book)
--->
+## 
 
-[![](https://ga-beacon.appspot.com/UA-78646709-2/academic-starter-book/readme?pixel)](https://github.com/igrigorik/ga-beacon)
+*Note: These R sessions of the OSX4000 Marine Ecology Skills module are based on a combination of voluntary, open source contributions made to [Data Carpentry](https://datacarpentry.org) as well as an open source course published by Johnston et al. (2019) [^Johnson_2019]. The Johnston et al. (2019) course content forms the backbone of the R teaching materials outlined here, with modifications made based on Bangor University lecturer Jenny Shepperson's work on the undergraduate environmental data analysis course, and adaptions to meet the aims of OSX 4000 Marine Ecology Skills module. 
+
+[^Johnson_2019]: Johnston et al., (2019). A graduate student-led participatory live-coding quantitative methods course in R: Experiences on initiating, developing, and teaching. Journal of Open Source Education, 2(16), 49, https://doi.org/10.21105/jose.00049
+
+The Data Carpentry and Johnston et al. (2019) course material are available through a [The Creative
+Commons](https://creativecommons.org/) licence, so that anyone in the future
+can re-use or modify content, without infringing on copyright
+licensing issues. The open source nature of this material, and the sharing of resources is quite a unique feature of open source tools, like R. We will learn more about this open source community through R sessions on this module.
