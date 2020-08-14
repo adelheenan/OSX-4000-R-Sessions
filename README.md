@@ -15,7 +15,7 @@ These R sessions are designed for complete beginners, with no previous experienc
 
 ## How to get in touch
 
-Blackboard is the preferred way of communication and ***THE*** best way to get your questions on these R sessions answered, so please visit the Blackboard discussion board for this module. If you need to use email, send general course related questions to a.heenan@bangor.ac.uk Any general IT issues sent via a [Bangor University Helpdesk ticket] (https://www.bangor.ac.uk/itservices/getting-help.php.en).
+Blackboard is the preferred way of communication and ***THE*** best way to get your questions on these R sessions answered, so please visit the Blackboard discussion board for this module. If you need to use email, send general course related questions to a.heenan@bangor.ac.uk  Any general IT issues send via a [Bangor University Helpdesk ticket] (https://www.bangor.ac.uk/itservices/getting-help.php.en).
 
 ## Logistics
 

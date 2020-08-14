@@ -5,5 +5,5 @@
 
 [[main]]
   name = "Documentation"
-  url = "docs/"
+  url = "Sessions/"
   weight = 10

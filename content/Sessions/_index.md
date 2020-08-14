@@ -1,5 +1,5 @@
 ---
-title: Docs
+title: Sessions
 type: book  # Do not modify.
 ---
 
